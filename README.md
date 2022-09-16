@@ -4,7 +4,7 @@
 
 > Trilha Explore
 
-Projeto construido do evento Next Level Week da Rocketseat.
+Projeto desenvolvido no evento Next Level Week (NLW) da Rocketseat.
 
 [🔗 Clique aqui para acessar](https://elivan-mendes.github.io/nlw-esports/)
 
